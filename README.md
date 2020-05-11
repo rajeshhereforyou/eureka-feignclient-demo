@@ -2,7 +2,7 @@
 
 This is a Spring boot 2 app to demonstrate 
 
-1. How to create a Feign client using Open Feign 
+1. How to create a Feign client using Open Feign and register it as a client with a Eureka server
 2. How to consume the Feign client to make a call to a REST endpoint.
 
 ## Pre-requisite
